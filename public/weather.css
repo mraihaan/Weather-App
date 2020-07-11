@@ -1,0 +1,31 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    color: #22181C;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F6E8EA;
+}
+span{
+    font-size: 45px;
+}
+.weather{
+    font-size: 90px;
+}
+.place{
+    font-size: 50px;
+}
+.description{
+    font-size: 40px;
+    padding-bottom: 100px;
+}
+a{
+    text-decoration: none;
+    font-size: 23px;
+    color: #22181C;
+}
+a:hover{
+    color: #F13030;
+    transition: 200ms;
+}
